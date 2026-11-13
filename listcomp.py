@@ -47,7 +47,7 @@ print(uppercase_city)
 
 # lowercasing food names
 
-food_names = ["DOsA", "iDLI", "RICe", "cHAptI"]
+food_names = ["DOsA", "iDLI", "RICe", "cHApatI"]
 lowercase_food = [food.lower() for food in food_names]
 print(lowercase_food) 
 
