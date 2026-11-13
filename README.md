@@ -45,4 +45,4 @@ Using Conditional Statements (if)
 
 ['GADAG', 'HAVERI', 'DHARWAD', 'KOPPAL']
 
-['dosa', 'idli', 'rice', 'chapti']
+['dosa', 'idli', 'rice', 'chapati']
